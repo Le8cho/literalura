@@ -6,17 +6,17 @@
 
 ## Índice
 
-* [Descripción del proyecto](#💁-Descripción-del-proyecto)
+* [Descripción del proyecto](#-descripción-del-proyecto)
 
-* [Funcionalidades del proyecto](#🔨-Funcionalidades-del-proyecto)
+* [Funcionalidades del proyecto](#-funcionalidades-del-proyecto)
 
-* [Acceso al proyecto](#📁-Acceso-al-proyecto)
+* [Acceso al proyecto](#-acceso-al-proyecto)
 
-* [Abre y ejecuta el proyecto](#🛠️-Abre-y-ejecuta-el-proyecto)
+* [Abre y ejecuta el proyecto](#%EF%B8%8F-abre-y-ejecuta-el-proyecto)
 
-* [Tecnologías Utilizadas](#✔️-Tecnologías-Utilizadas) 
+* [Tecnologías Utilizadas](#%EF%B8%8F-tecnologías-utilizadas) 
 
-* [Personas Desarrolladoras del Proyecto](#Autor)
+* [Personas Desarrolladoras del Proyecto](#autor)
   
 
 # 💁 Descripción del proyecto
